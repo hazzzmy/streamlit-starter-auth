@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    usersample:
+      email: usersample@mail.com
+      name: User Sample
+      password: $2a$12$Vwh4q/NgsPXfo.p2YqYGF.SAxqhKNXYlNlHW6MkmzjIN1Z/MR8EGS
+cookie:
+  expiry_days: 1
+  key: streamlitApp # Must be string
+  name: appName
+preauthorized:
+  emails:
+  - usersample@mail.com

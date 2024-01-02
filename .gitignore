@@ -1,0 +1,10 @@
+data/
+output/
+playground/
+historis/
+__pycache__/
+__pycache__/
+component/__pycache__/
+module/__pycache__/
+page/__pycache__/
+page/__pycache__/
