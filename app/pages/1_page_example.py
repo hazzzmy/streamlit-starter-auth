@@ -21,7 +21,7 @@ if st.session_state['auth'] == True:
 if st.session_state['auth'] == False:
     st.info(
         'Please regenerate authentication with revisit the Home Page, then come back to this page')
-    urlHome = "http://34.101.196.6:8501"
+    urlHome = "http://localhost:8501"
     goToHome = redirectButton("Go To Home Page", urlHome)
     goToHomeButton = goToHome
 
